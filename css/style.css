@@ -342,7 +342,7 @@ button {
 .product_img {
     width: 100%;
     float: left;
-    padding-top: 20px;
+  /*   padding-top: 20px; */
 }
 
 #my_slider a.carousel-control-next {
@@ -716,7 +716,7 @@ button {
     position: absolute;
     width: 200px;
     height: 200px;
-    background-image: url(../images/img-1.png);
+    background-image: url(../images/5.png);
     background-size: 100%;
     background-repeat: no-repeat;
     left: initial;
@@ -729,7 +729,7 @@ button {
     position: absolute;
     width: 200px;
     height: 200px;
-    background-image: url(../images/img-1.png);
+    background-image: url(../images/5.png);
     background-size: 100%;
     background-repeat: no-repeat;
     left: 0px;
@@ -817,7 +817,7 @@ button {
     position: absolute;
     width: 200px;
     height: 200px;
-    background-image: url(../images/img-1.png);
+    background-image: url(../images/5.png);
     background-size: 100%;
     background-repeat: no-repeat;
     left: initial;
